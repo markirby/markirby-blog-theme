@@ -55,6 +55,8 @@
 			<ul>
 				<li><a href="/">home</a></li>
 				<li><a href="/about/" class="">about</a></li>
+				<li><a href="/conference-speaker-mobile-design-and-development/" class="">speaking</a></li>
+
 			</ul>
 		</nav>
       <section id="main-content">
